@@ -1,0 +1,2 @@
+# Global-Terrorism-Analysis-
+Global Terrorism Data Analysis has been done by two group members Vishal Sahu and Bhushan Arun Bhopaye.The database consists information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks.
